@@ -2,15 +2,15 @@ This is a repository for my curriculum development at Juni Learning.
 
 1) Tic Tac Toe Problems
 
-  ~TicTacToeRandom.py : Tic Tac Toe with Random AI
+  --TicTacToeRandom.py : Tic Tac Toe with Random AI
   
-  ~TicTacToeSimpleAI.py : Tic Tac Toe with AI that checks if it can play a winning move or block an opponent winning move. 
+  --TicTacToeSimpleAI.py : Tic Tac Toe with AI that checks if it can play a winning move or block an opponent winning move. 
   
-  ~TicTacToeSimpleAICheck.py : runs Simple AI against Random AI 1000 times.
+  --TicTacToeSimpleAICheck.py : runs Simple AI against Random AI 1000 times.
   
-  ~TicTacToeBestAI.py : AI checks for winning moves and if there are none, checks if it can play or block a fork.
+  --TicTacToeBestAI.py : AI checks for winning moves and if there are none, checks if it can play or block a fork.
   
-  ~TicTacToeProof.py : confirms that BestAI never loses by playing against Random AI 1000 times.
+  --TicTacToeProof.py : confirms that BestAI never loses by playing against Random AI 1000 times.
   
 2) Conway's Game of Life
   ~Program runs Conway's Game of Life from various starting positions
