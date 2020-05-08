@@ -1,6 +1,6 @@
-### TODO:
+### This is a repository for my curriculum development at Juni Learning. :
 
-1. Upload images as background (load images out of photo library) 
+1. Tic Tac Toe Problems
 2. UI to add nodes and edges 
    - click to add node, click and drag for edges (avoid duplicate paths)
    - calculate edge weight based on distance
@@ -15,8 +15,8 @@
 ### This is a repository for my curriculum development at Juni Learning. 
 
 1. Tic Tac Toe Problems
-   -TicTacToeRandom.py : Tic Tac Toe with Random AI
-   -TicTacToeSimpleAI.py : Tic Tac Toe with AI that checks if it can play a winning move or block an opponent winning move. 
+   - TicTacToeRandom.py : Tic Tac Toe with Random AI
+   - TicTacToeSimpleAI.py : Tic Tac Toe with AI that checks if it can play a winning move or block an opponent winning move. 
   
   -TicTacToeSimpleAICheck.py : runs Simple AI against Random AI 1000 times.
   
