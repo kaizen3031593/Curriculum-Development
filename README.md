@@ -1,3 +1,17 @@
+### TODO:
+
+1. Upload images as background (load images out of photo library) 
+2. UI to add nodes and edges 
+   - click to add node, click and drag for edges (avoid duplicate paths)
+   - calculate edge weight based on distance
+   - let user specify color somehow?
+   - Use GraphADT to store nodes, edges with coordinates
+3. Zoom and pan
+4. Save/load
+5. Multiple Views
+6. Gameplay?
+
+
 ###This is a repository for my curriculum development at Juni Learning. 
 
 1. Tic Tac Toe Problems
