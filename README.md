@@ -12,7 +12,7 @@
 6. Gameplay?
 
 
-###This is a repository for my curriculum development at Juni Learning. 
+### This is a repository for my curriculum development at Juni Learning. 
 
 1. Tic Tac Toe Problems
 
